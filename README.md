@@ -1,6 +1,6 @@
 # R-Net
   * A Tensorflow implementation of [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf). This project is specially designed for the [SQuAD](https://arxiv.org/pdf/1606.05250.pdf) dataset.
-  * Should you have any question, please contact Wenxuan Zhou (wzhouad@connect.ust.hk).
+  * Should you have any questions, please just ask R-NET instead. :stuck_out_tongue_winking_eye: Okay, I suppose you can contact Wenxuan Zhou (wzhouad@connect.ust.hk) or Eric Hansen (ericchansen@gmail.com).
 
 ## Requirements
 
@@ -77,4 +77,3 @@ These settings may increase the score but not used in the model by default. You 
 
  * [Pretrained GloVe character embedding](https://github.com/minimaxir/char-embeddings). Contributed by yanghanxy.
  * [Fasttext Embedding](https://fasttext.cc/docs/en/english-vectors.html). Contributed by xiongyifan. May increase the F1 by 1% (reported by xiongyifan).
-
